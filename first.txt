@@ -1,4 +1,9 @@
 This is my first git file.
 Basic and simple one
 testing
+<<<<<<< HEAD
 change made at test branch.
+=======
+
+changes made at master branch. 
+>>>>>>> master
