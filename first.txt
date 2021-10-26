@@ -2,8 +2,15 @@ This is my first git file.
 Basic and simple one
 testing
 <<<<<<< HEAD
+<<<<<<< HEAD
 change made at test branch.
 =======
 
 changes made at master branch. 
 >>>>>>> master
+=======
+
+change made at test branch.
+changes made at master branch. 
+
+>>>>>>> 203d205ab57b907589ee7f2ea4cdf0cb983aeeea
